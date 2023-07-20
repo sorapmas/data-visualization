@@ -10,5 +10,7 @@ an animal study that was conducted on 249 mice with SCC tumors who recieved trea
  - ***Data***
   - ***Mouse_metadata.csv:*** A CSV file that contains the mouse's ID, the drug regimen they've used, gender, weight, and age month
  - ***Study_results.csv:*** A CSV file that contains again, the mouse's ID, timpoint, tumor volume, and metastatic site
+
+***Please note I've recieved learning assistance on retrieving information for duplicated mice ID***
   
   
